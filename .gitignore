@@ -1,3 +1,5 @@
+venv/
+
 .vscode/
 .chktexrc
 .DS_Store
